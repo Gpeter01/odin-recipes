@@ -28,10 +28,11 @@ figcaption {
 .brody {
     font-size: 20px;
     margin: 0px;
-    padding: 160px;
+    padding: 200px;
     border: 0px;
     height: auto;
     width: auto;
+    padding-top: 10px;
 }
 .Ing {
     text-align: center;
