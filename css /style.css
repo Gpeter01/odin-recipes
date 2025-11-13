@@ -1,0 +1,24 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+#main {
+    text-align: center;
+    font-size: 100px;
+    background-color: black;
+    border: 70px;
+    padding: 50px;
+    color: white;
+}
+.odin {
+    font-size: 30px;
+    padding: 30px;
+    line-height: normal;
+    color: black;
+    text-align: center;
+}
+

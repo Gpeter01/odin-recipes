@@ -1,0 +1,55 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.main {
+    text-align: center;
+    color: black;
+    padding: 60px;
+    font-size: 30px;
+}
+.images {
+    text-align: center;
+    padding: 10px;
+}
+figcaption {
+    font-size: 20px;
+    margin: 15px;
+}
+.brody #description {
+    text-align: center;
+    font-size: 40px;
+    margin: 25px;
+}
+.brody {
+    font-size: 20px;
+    margin: 0px;
+    padding: 160px;
+    border: 0px;
+    height: auto;
+    width: auto;
+}
+.Ing {
+    text-align: center;
+    font-size: 35px;
+    margin: 20px;
+}
+.steps {
+    text-align: center;
+    font-size: 30px;
+    margin: 20px;
+}
+.end {
+    margin: 12px;
+}
+.end-foot {
+     border: 100px;
+}
+.most {
+    line-height: 1.6;
+}
+
