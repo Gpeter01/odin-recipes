@@ -9,30 +9,36 @@
 .main {
     text-align: center;
     color: black;
-    padding: 60px;
+    padding: 20px;
     font-size: 30px;
+    margin: 40px;
+    margin-bottom: 20px;
 }
 .images {
     text-align: center;
     padding: 10px;
+    margin: auto;
+    margin-bottom: 20px;
 }
 figcaption {
-    font-size: 20px;
+    font-size: 18px;
     margin: 15px;
 }
 .brody #description {
     text-align: center;
     font-size: 40px;
-    margin: 25px;
+    margin: 20px;
 }
 .brody {
     font-size: 20px;
     margin: 0px;
     padding: 200px;
-    border: 0px;
+    border: 15px black;
     height: auto;
     width: auto;
-    padding-top: 10px;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    border-style: ridge;
 }
 .Ing {
     text-align: center;
