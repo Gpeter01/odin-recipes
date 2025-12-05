@@ -14,10 +14,11 @@
     padding: 50px;
     color: white;
 }
-.odin {
+.odin,
+div {
     font-size: 30px;
     padding: 30px;
-    line-height: normal;
+    line-height: 1.5;
     color: black;
     text-align: center;
 }

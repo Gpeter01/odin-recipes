@@ -28,6 +28,7 @@ figcaption {
     text-align: center;
     font-size: 40px;
     margin: 20px;
+    list-style: disc;
 }
 .brody {
     font-size: 20px;
