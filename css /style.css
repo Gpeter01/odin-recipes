@@ -1,33 +1,67 @@
 * {
     font-family: 'Times New Roman', Times, serif;
-    background-color: blanchedalmond;
+    box-sizing: border-box;
     font-size: 20px;
-    margin: 0px;
-    padding: 0px;
-    border: 0px;
 }
 #main {
     text-align: center;
+    width: 100vw;
     font-size: 100px;
     background-color: black;
-    border: 70px;
-    padding: 50px;
+    padding: 70px;
+    margin-top: 0px !important;
+    margin-bottom: 0px;
     color: white;
 }
 .main-container {
+    width: 100vw;
+    height: 900px;
     display: flex;
-    flex-direction: column;
+    flex-flow: column wrap;
+    justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: 30px;
     padding: 20px;
+}
+.odin {
+    background-color: white;
+    border-radius: 70px;
+    border: 2px solid black;
+    flex-grow: 1;
+    flex-basis: 100px;
+    width: 300px;
+    height: 200px;
+
+    padding: 30px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+    transition-property: transform;
+    transition-duration: 300ms;
+    transition-timing-function: ease-in-out;
+}
+.odin:hover {
+    outline: 3px solid black;
+    transform: scale(1.02);
 }
 a {
     text-decoration: none;
-    color: black;
-    font-size: 30px;
+    display: block;
 }
 p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 30px;
-    padding: 20px;
     margin: auto;
+    color: black;
+}
+p.conclusion {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+body {
+    background-color: blanchedalmond;
+    padding: 0px;
 }
